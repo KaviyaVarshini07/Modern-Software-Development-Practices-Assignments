@@ -3,42 +3,42 @@
 # 1 Certification Requirement
 > - AI Fluency for Students
 >
-> Kindly submit the verification link here 
+> https://verify.skilljar.com/c/afrn4pvfrb9s
 > - Introduction to Agent Skills
 >
-> Kindly submit the verification link here
+> https://verify.skilljar.com/c/aec2wavztnjn
 > 
 > Kindly upload the certifications PDF in Google Drive Link
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
 >
-> - Kindly submit the GitHub Repo URL
+> - (https://github.com/KaviyaVarshini07/AIML-one-credit)
 >
-> - Kindly submit the Vercel Deployment URL
+> - (https://aiml-one-credit-dusky.vercel.app/)
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - https://github.com/KaviyaVarshini07/AIML-one-credit
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
 > - Kindly submit the GitHub Repo URL
 >
-> - Kindly submit the Live Application URL (Domain)
+> - https://e-commerce-web-ten-drab.vercel.app/
 >
 > - Kindly submit the GitHub Pages (Documentation) URL
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
-> [LinkedIn post URL]
+> https://www.linkedin.com/posts/kaviya-varshini-191b53328_softwaredevelopment-ai-fullstack-ugcPost-7444948831731089408-yRF5?utm_source=share&utm_medium=member_android&rcm=ACoAAFLAbj0BALjiorh4k56EUfLEF0H53mYkQFM
 
 ## For Second Year Buddies
 
 # 5 Certification Requirement
 > - Introduction to Model Context Protocol
 >
-> Kindly submit the verification link here 
+> (https://verify.skilljar.com/c/85ubws6wburr)
 > 
 > Kindly upload the certifications PDF in Google Drive Link
 
