@@ -1,4 +1,4 @@
-.# Assignment Submissions.
+..# Assignment Submissions.
 
 # 1 Certification Requirement
 > - AI Fluency for Students
