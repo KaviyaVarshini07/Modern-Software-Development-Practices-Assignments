@@ -22,11 +22,11 @@
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
-> - Kindly submit the GitHub Repo URL
+> - •	https://github.com/palanibharathivenkatraj/AIML-1-credit/blob/main/ecommerce/DOCUMENTATION.md
 >
 > - https://e-commerce-web-ten-drab.vercel.app/
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - https://github.com/palanibharathivenkatraj/AIML-1-credit/tree/main
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
